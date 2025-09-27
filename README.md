@@ -17,3 +17,22 @@ To deliver data-driven insights and strategic recommendations that enable Bright
 - Initial File
 - Working File
 - Output File
+# 📊 Key Insights
+### Viewers Demographis
+- Black male viewers dominate the audience, accounting for 43.3% and 87% respectively.
+### Time-Based Analysis
+- Night-time viewing (18:00–00:00) peaks at 26.2% on Fridays.
+### Duration & Channels
+- Top 5 channels make up to 60.3% of the total viewership with less or equal to 30 minutes
+# Recommendations
+- Diversify content to balance gender engagement
+- Optimize for short-form consumption
+- Target youth with trending content
+- Re-engage older viewers
+- Personalize content delivery
+- Grow user base through targeted campaigns e.g social media, referral programs, bundle offers
+# Tools Used
+- Excel
+- Snowflake
+- Powerpoint
+- Miro

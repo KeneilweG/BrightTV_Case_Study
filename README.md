@@ -13,7 +13,7 @@ The analysis is based on historical viewership and user profiles dataset provide
 - Propose initiatives to grow the subscription base.
 # 🏁 Aim
 To deliver data-driven insights and strategic recommendations that enable BrightTV to enhance user engagement, optimize content offerings, identify consupmtion factors and achieve its goal of expanding the subscription base during the current financial year.
-📁Project Files
--Initial File
--Working File
--Output File
+# 📁Project Files
+- Initial File
+- Working File
+- Output File

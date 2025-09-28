@@ -1,4 +1,4 @@
-# BrightTV_Case_Study
+# BrightTV_Case_Study TV📺
 
 # 🧭Introduction
 BrightTV is a digital entertainment platform aiming to expand its subscription base in the current financial year. With a diverse user profile and rich viewer transaction data, the company seeks to understand consumption patterns and identify strategic opportunities for growth. This project leverages data analytics to uncover actionable insights that will empower the Customer Value Management (CVM) team to optimize content delivery, enhance user engagement, and increase subscriber retention.
@@ -24,15 +24,15 @@ To deliver data-driven insights and strategic recommendations that enable Bright
 - Night-time viewing (18:00–00:00) peaks at 26.2% on Fridays.
 ### Duration & Channels
 - Top 5 channels make up to 60.3% of the total viewership with less or equal to 30 minutes
-# Recommendations
+# 📌 Recommendations
 - Diversify content to balance gender engagement
 - Optimize for short-form consumption
 - Target youth with trending content
 - Re-engage older viewers
 - Personalize content delivery
 - Grow user base through targeted campaigns e.g social media, referral programs, bundle offers
-# Tools Used
-- Excel
-- Snowflake
-- Powerpoint
-- Miro
+# 🛠️ Tools Used
+- 📊Excel
+- ❄️Snowflake
+- 🖼️Powerpoint
+- 🧠Miro

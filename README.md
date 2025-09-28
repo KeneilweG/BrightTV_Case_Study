@@ -16,7 +16,7 @@ To deliver data-driven insights and strategic recommendations that enable Bright
 # 📁Project Files
 - Initial File - [Raw Dataset](https://github.com/KeneilweG/BrightTV_Case_Study/blob/main/Input%20Files/Bright%20TV%20-Dataset%20(1).xlsx) & [Project Guideline](https://github.com/KeneilweG/BrightTV_Case_Study/blob/main/Input%20Files/BrightTV%20Case%20Study.pdf)
 - Working File - [Data Visualization](https://github.com/KeneilweG/BrightTV_Case_Study/blob/main/Working%20Files/BrightTV%20Analysis%20(version%201).xlsb) & [Data Processed SQL](https://github.com/KeneilweG/BrightTV_Case_Study/blob/main/Working%20Files/BrightTV%20Data%20Analysis.sql) 
-- Output File
+- Output File - [Data Presentation](https://github.com/KeneilweG/BrightTV_Case_Study/blob/main/Output/BrigthtTVV%20Presentation.pptx)
 # 📊 Key Insights
 ### Viewers Demographis
 - Black male viewers dominate the audience, accounting for 43.3% and 87% respectively.

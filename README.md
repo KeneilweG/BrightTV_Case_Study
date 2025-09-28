@@ -14,7 +14,7 @@ The analysis is based on historical viewership and user profiles dataset provide
 # 🏁 Aim
 To deliver data-driven insights and strategic recommendations that enable BrightTV to enhance user engagement, optimize content offerings, identify consupmtion factors and achieve its goal of expanding the subscription base during the current financial year.
 # 📁Project Files
-- Initial File
+- Initial File - [Raw Dataset](https://github.com/KeneilweG/BrightTV_Case_Study/blob/main/Input%20Files/Bright%20TV%20-Dataset%20(1).xlsx)
 - Working File
 - Output File
 # 📊 Key Insights

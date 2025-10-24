@@ -5,7 +5,7 @@ BrightTV is a digital entertainment platform aiming to expand its subscription b
 # ❗ Problem Statement
 BrightTV faces challenges in maintaining consistent viewer engagement and expanding its subscription base. The CEO has tasked the CVM team with identifying key drivers of consumption, understanding user behavior, and recommending initiatives to boost viewership—especially on low-consumption days—and attract new subscribers.
 # 📅 Research Period
-The analysis is based on historical viewership and user profiles dataset provided in the BrightTV dataset **(01/01/2016 - 29/03/2016)**. All timestamps are converted from UTC to South Africa Standard Time (SAST) to ensure contextual accuracy.
+The analysis is based on historical viewership and user profiles dataset provided in the BrightTV dataset **(01/01/2023 - 31/03/2023)**. All timestamps are converted from UTC to South Africa Standard Time (SAST) to ensure contextual accuracy.
 # 🎯 Objectives
 - Analyze user and usage trends across the platform.
 - Identify factors that influence content consumption.
@@ -16,7 +16,7 @@ To deliver data-driven insights and strategic recommendations that enable Bright
 # 📁Project Files
 - Initial File - [Raw Dataset](https://github.com/KeneilweG/BrightTV_Case_Study/blob/main/Input%20Files/Bright%20TV%20-Dataset%20(1).xlsx) & [Project Guideline](https://github.com/KeneilweG/BrightTV_Case_Study/blob/main/Input%20Files/BrightTV%20Case%20Study.pdf)
 - Working File - [Data Visualization](https://github.com/KeneilweG/BrightTV_Case_Study/blob/main/Working%20Files/BrightTV%20Analysis%20(version%201).xlsb) & [Data Processed SQL](https://github.com/KeneilweG/BrightTV_Case_Study/blob/main/Working%20Files/BrightTV%20Data%20Analysis.sql) 
-- Output File - [Data Presentation](https://github.com/KeneilweG/BrightTV_Case_Study/blob/main/Output/BrigthtTVV%20Presentation.pptx)**;** [Static TV Dashboard](Output/BRIGHT TV DASHBOARD.pdf) & [Live TV Dashboard](https://lookerstudio.google.com/reporting/38d5c35f-6bd8-4070-8c25-933b7758d0da)
+- Output File - [Data Presentation](https://github.com/KeneilweG/BrightTV_Case_Study/blob/main/Output/BrigthtTVV%20Presentation.pptx)**;** [Static TV Dashboard]([Output/BRIGHT TV DASHBOARD.pdf](https://github.com/KeneilweG/BrightTV_Case_Study/blob/main/Output/BRIGHT%20TV%20DASHBOARD.pdf)) & [Live TV Dashboard](https://lookerstudio.google.com/reporting/38d5c35f-6bd8-4070-8c25-933b7758d0da)
 # 📊 Key Insights
 ### Viewers Demographis
 - Black male viewers dominate the audience, accounting for 43.3% and 87% respectively.

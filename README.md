@@ -5,7 +5,7 @@ BrightTV is a digital entertainment platform aiming to expand its subscription b
 # ❗ Problem Statement
 BrightTV faces challenges in maintaining consistent viewer engagement and expanding its subscription base. The CEO has tasked the CVM team with identifying key drivers of consumption, understanding user behavior, and recommending initiatives to boost viewership—especially on low-consumption days—and attract new subscribers.
 # 📅 Research Period
-The analysis is based on historical viewership and user profiles dataset provided in the BrightTV dataset **(01/01/2016 - 01/04/2026)**. All timestamps are converted from UTC to South Africa Standard Time (SAST) to ensure contextual accuracy.
+The analysis is based on historical viewership and user profiles dataset provided in the BrightTV dataset **(01/01/2016 - 29/03/2016)**. All timestamps are converted from UTC to South Africa Standard Time (SAST) to ensure contextual accuracy.
 # 🎯 Objectives
 - Analyze user and usage trends across the platform.
 - Identify factors that influence content consumption.
